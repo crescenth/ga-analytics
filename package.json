@@ -26,10 +26,10 @@
   },
   "license": "MIT",
   "dependencies": {
-    "cli-table": "^0.3.1",
-    "commander": "^2.5.0",
-    "googleapis": "^1.0.21",
-    "lodash": "^2.4.1",
-    "moment": "^2.8.4"
+    "cli-table": "^0.3.11",
+    "commander": "^12.1.0",
+    "googleapis": "^140.0.1",
+    "lodash": "^4.17.21",
+    "moment": "^2.30.1"
   }
 }
